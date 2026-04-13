@@ -6,11 +6,8 @@ Bem-vindo ao meu repositório de portfólio! Aqui você encontrará os principai
 Engenheiro de Software focado em criar soluções escaláveis e eficientes. Gosto de resolver problemas complexos e aprender novas ferramentas constantemente.
 
 ## 🛠 Tecnologias e Ferramentas
-- **Linguagens:** Java, TypeScript, Python, C#
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Spring Boot, .NET
-- **Banco de Dados:** PostgreSQL, MongoDB, Redis
-- **DevOps:** Docker, AWS, CI/CD, Git
+- Linguagens: Java, Python 
+- Banco de Dados:
 
 ## 📂 Principais Projetos
 Alguns dos meus trabalhos de destaque:
