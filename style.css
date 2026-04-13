@@ -1,0 +1,125 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+ body {
+     font-family: 'Segoe UI', sans-serif;
+     background: #0d1117;
+     color: #c9d1d9;
+ }
+
+ header {
+     background: linear-gradient(135deg, #161b22, #21262d);
+     padding: 60px 20px;
+     text-align: center;
+     border-bottom: 1px solid #30363d;
+ }
+
+ header h1 {
+     font-size: 2.5rem;
+     color: #58a6ff;
+ }
+
+ header p {
+     font-size: 1.1rem;
+     margin-top: 10px;
+     color: #8b949e;
+ }
+
+ nav {
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+     padding: 16px;
+     background: #161b22;
+     border-bottom: 1px solid #30363d;
+ }
+
+ nav a {
+     color: #58a6ff;
+     text-decoration: none;
+     font-weight: bold;
+ }
+
+ nav a:hover {
+     text-decoration: underline;
+ }
+
+ section {
+     max-width: 900px;
+     margin: 40px auto;
+     padding: 0 20px;
+ }
+
+ h2 {
+     font-size: 1.6rem;
+     color: #58a6ff;
+     margin-bottom: 20px;
+     border-left: 4px solid #58a6ff;
+     padding-left: 12px;
+ }
+
+ .card {
+     background: #161b22;
+     border: 1px solid #30363d;
+     border-radius: 10px;
+     padding: 24px;
+     margin-bottom: 20px;
+ }
+
+ .card h3 {
+     color: #f0f6fc;
+     margin-bottom: 8px;
+ }
+
+ .card p {
+     color: #8b949e;
+     line-height: 1.6;
+ }
+
+ .card ul {
+     margin-top: 10px;
+     padding-left: 20px;
+ }
+
+ .card ul li {
+     color: #3fb950;
+     margin-bottom: 6px;
+ }
+
+ .tags {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 8px;
+     margin-top: 12px;
+ }
+
+ .tag {
+     background: #21262d;
+     border: 1px solid #30363d;
+     border-radius: 20px;
+     padding: 4px 12px;
+     font-size: 0.85rem;
+     color: #58a6ff;
+ }
+
+ .contact a {
+     color: #58a6ff;
+     text-decoration: none;
+     display: block;
+     margin-bottom: 8px;
+ }
+
+ .contact a:hover {
+     text-decoration: underline;
+ }
+
+ footer {
+     text-align: center;
+     padding: 30px;
+     color: #8b949e;
+     border-top: 1px solid #30363d;
+     margin-top: 60px;
+ }
